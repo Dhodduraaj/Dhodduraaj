@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with a strong interest in building scalable and user-friendly applications. I love solving complex problems, learning new technologies, and collaborating with talented people.
+I'm a passionate **Full Stack Developer** with a strong interest in building scalable and user-friendly applications. I love solving complex problems, learning new technologies, and collaborating with others.
 
 - 🔭 I'm currently working on exciting projects
 - 👯 I'm open to collaborating on interesting projects
@@ -49,8 +49,12 @@ I'm a passionate **Full Stack Developer** with a strong interest in building sca
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhodduraaj&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhodduraaj&layout=compact&langs_count=8&theme=dark" />
+  <a href="https://github.com/Dhodduraaj">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhodduraaj&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Dhodduraaj">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhodduraaj&layout=compact&langs_count=8&theme=dark&cache_seconds=1800" alt="Top Languages" />
+  </a>
 </div>
 
 ---
